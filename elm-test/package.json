@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "elm-test": "*"
+  },
+  "scripts": {
+    "test": "elm-test"
+  }
+}
